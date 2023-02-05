@@ -29,7 +29,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaberintaro10&layout=compact&theme=transparent" />
     </a>
 
-### Repos
+### Current Projects
 <p align = "center">
   <a href="https://github.com/OkabeRintaro10/MachineLearningProjects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okaberintaro10&repo=MachineLearningProjects" />
