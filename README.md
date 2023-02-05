@@ -34,7 +34,6 @@
   <a href="https://github.com/OkabeRintaro10/MachineLearningProjects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okaberintaro10&repo=MachineLearningProjects" />
   </a>
-  <br>
   <a href="https://github.com/OkabeRintaro10/OtakuHaven_web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okaberintaro10&repo=OtakuHaven_web" />
   </a>
