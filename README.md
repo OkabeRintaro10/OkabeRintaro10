@@ -38,9 +38,6 @@
   <a href="https://github.com/OkabeRintaro10/OtakuHaven_web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okaberintaro10&repo=OtakuHaven_web" />
   </a>
-  <a href="https://github.com/OkabeRintaro10/OkabeRintaro10">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=okaberintaro10&repo=OkabeRintaro10" />
-  </a>
 </p>
 <!--
 **OkabeRintaro10/OkabeRintaro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
