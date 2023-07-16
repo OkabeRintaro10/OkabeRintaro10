@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Machine Learning at Vellore Institute Of Technology
 - 📫 How to reach me: kausikremella@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I spend most of my time in the gym and watching anime
+- ⚡ Fun fact: To stay sharp I got to the Gym and to wind down I watch some anime
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
